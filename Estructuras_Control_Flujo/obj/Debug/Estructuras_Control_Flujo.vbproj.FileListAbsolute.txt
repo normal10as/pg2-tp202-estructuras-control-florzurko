@@ -1,0 +1,10 @@
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\Estructuras_Control_Flujo\Estructuras_Control_Flujo\bin\Debug\Estructuras_Control_Flujo.exe.config
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\Estructuras_Control_Flujo\Estructuras_Control_Flujo\bin\Debug\Estructuras_Control_Flujo.exe
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\Estructuras_Control_Flujo\Estructuras_Control_Flujo\bin\Debug\Estructuras_Control_Flujo.pdb
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\Estructuras_Control_Flujo\Estructuras_Control_Flujo\bin\Debug\Estructuras_Control_Flujo.xml
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\Estructuras_Control_Flujo\Estructuras_Control_Flujo\obj\Debug\Estructuras_Control_Flujo.vbprojResolveAssemblyReference.cache
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\Estructuras_Control_Flujo\Estructuras_Control_Flujo\obj\Debug\Estructuras_Control_Flujo.Resources.resources
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\Estructuras_Control_Flujo\Estructuras_Control_Flujo\obj\Debug\Estructuras_Control_Flujo.vbproj.GenerateResource.Cache
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\Estructuras_Control_Flujo\Estructuras_Control_Flujo\obj\Debug\Estructuras_Control_Flujo.exe
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\Estructuras_Control_Flujo\Estructuras_Control_Flujo\obj\Debug\Estructuras_Control_Flujo.xml
+C:\Users\Asus\Documents\Visual Studio 2017\Projects\Estructuras_Control_Flujo\Estructuras_Control_Flujo\obj\Debug\Estructuras_Control_Flujo.pdb
